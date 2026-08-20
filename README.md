@@ -33,10 +33,9 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 <div align="center">
 
-<table>
-  <tr>
+<tr>
     <td width="33%">
-      <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" />
+      <img src="assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" />
     </td>
     <td width="33%">
       <!-- İleride 2. proje buraya gelecek -->
@@ -45,7 +44,6 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
       <!-- İleride 3. proje buraya gelecek -->
     </td>
   </tr>
-</table>
 
 </div>
 
