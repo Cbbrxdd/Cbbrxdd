@@ -39,11 +39,11 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
   </div>
 
   <!-- 2. Proje (İleride eklendiğinde buraya kopyalayabilirsin) -->
-  <!-- 
+  
   <div style="flex: 1; min-width: 300px; max-width: 48%;">
-    <img src="./assets/ikinci-proje-card.svg" alt="İkinci Proje" width="100%" style="border-radius: 14px;" />
+    <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" width="50%" style="border-radius: 14px;" />
   </div>
-  -->
+  
 
 </div>
 
