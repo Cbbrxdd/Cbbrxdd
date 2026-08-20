@@ -33,16 +33,7 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 <div align="center">
 
-### ⚡ Deprem Bilgi Sistemi
-
-Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, analiz eden ve çeşitli platformlara otomatik olarak aktaran yüksek performanslı bir sistem.
-
-<!-- Proje Ekran Görüntüsü -->
-<p align="center">
-  <img src="https://github.com/Cbbrxdd/Cbbrxdd/blob/c331e43edbefd075ee49705db93d94b45cd4be0c/.github/assets/images/deprem.bilgisistemi.net.tr_.png" alt="Deprem Bilgi Sistemi Arayüzü" width="90%" style="border-radius: 8px;"/>
-</p>
-
-🌐 **Website:** [deprem.bilgisistemi.net.tr](https://deprem.bilgisistemi.net.tr/) &nbsp;|&nbsp; 🔗 **Kısa Bağlantı:** [dprm.click](https://dprm.click/)
+<img src="https://raw.githubusercontent.com/Cbbrxdd/Cbbrxdd/main/assets/deprem-card.svg" width="100%" alt="Deprem Bilgi Sistemi" />
 
 </div>
 
