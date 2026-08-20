@@ -33,7 +33,19 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 <div align="center">
 
-<img src="assets/dbs-project-card.svg" width="100%" alt="Deprem Bilgi Sistemi" />
+<table>
+  <tr>
+    <td width="33%">
+      <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" />
+    </td>
+    <td width="33%">
+      <!-- İleride 2. proje buraya gelecek -->
+    </td>
+    <td width="33%">
+      <!-- İleride 3. proje buraya gelecek -->
+    </td>
+  </tr>
+</table>
 
 </div>
 
