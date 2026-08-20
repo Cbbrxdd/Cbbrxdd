@@ -93,16 +93,6 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 ---
 
-## 🏆 GitHub Başarıları
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cbbrxdd&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 📬 Bana Ulaşın
 
 <div align="center">
