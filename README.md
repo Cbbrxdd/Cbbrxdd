@@ -53,7 +53,7 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 ### Backend & Veritabanı
 <p>
-<img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,mysql,docker"/>
+<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,docker"/>
 </p>
 
 ### Araçlar & Sürüm Kontrolü
