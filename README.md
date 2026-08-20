@@ -58,7 +58,7 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 ### Araçlar & Sürüm Kontrolü
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,npm"/>
 </p>
 
 ---
@@ -94,15 +94,11 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 ---
 
 <div align="center">
-
-<!-- Yılanın görüntüleneceği yer. Doğrudan kendi deponuzdaki dosyayı işaret edin. -->
 <img src="https://raw.githubusercontent.com/Cbbrxdd/Cbbrxdd/main/dist/github-contribution-grid-snake.svg" alt="Katkı Yılanı" />
 
 </div>
 
 ---
-
-## 📬 Bana Ulaşın
 
 <div align="center">
 
