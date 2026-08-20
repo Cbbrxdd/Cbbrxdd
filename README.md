@@ -16,22 +16,22 @@ Backend geliştirme, ölçeklenebilir API mimarileri ve gerçek zamanlı sisteml
 
 ## 🚀 Hakkımda
 
-Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüler ve yüksek performanslı sistemler tasarlamaya odaklanıyorum.
+Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüler, düşük gecikmeli ve yüksek performanslı sistemler tasarlamaya odaklanıyorum.
 
 İlgilendiğim başlıca alanlar:
 
 - ⚡ **Node.js & NestJS** ile Backend Geliştirme
 - 🔌 **REST API** Tasarımı ve Entegrasyonları
 - 🌐 **WebSocket** Tabanlı Gerçek Zamanlı Sistemler
-- 🗄️ **MongoDB & PostgreSQL** ile Veri Yönetimi
+- 🗄️ **MongoDB & PostgreSQL & MySQL** ile Veri Yönetimi
 - 🧩 Modüler ve Temiz Yazılım Mimarileri
 - 🚀 Otomasyon, Ağ ve Performans Optimizasyonu
 
 ---
 
-## 🌍 Öne Çıkan Projem
+## 🌍 Yayında Olan Projem
 
-<div align="center">
+<div>
 
 ### Deprem Bilgi Sistemi
 
@@ -44,21 +44,21 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ ilgilendiğim Teknolojiler
 
 ### Diller & Çekirdek
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react"/>
 </p>
 
 ### Backend & Veritabanı
 <p>
-<img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,docker"/>
+<img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,mysql,docker"/>
 </p>
 
 ### Araçlar & Sürüm Kontrolü
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,"/>
 </p>
 
 ---
@@ -92,8 +92,6 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 </table>
 
 ---
-
-## 📅 Katkı Grafiğim
 
 <div align="center">
 
