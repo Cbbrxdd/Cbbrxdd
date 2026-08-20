@@ -21,8 +21,7 @@
           width: 100%;
           height: 100%;
           object-fit: cover;
-          /* Görselin netliği maksimum seviyeye çıkarıldı */
-          opacity: 0.85; 
+          opacity: 0.90; 
         }
         .gradient-overlay {
           position: absolute;
@@ -30,8 +29,7 @@
           left: 0;
           width: 100%;
           height: 100%;
-          /* Yazıların okunması için sadece arkalarına çok hafif gölge veren ince bir katman */
-          background: linear-gradient(180deg, rgba(13,17,23,0.7) 0%, rgba(13,17,23,0.45) 50%, rgba(13,17,23,0.85) 100%);
+          background: linear-gradient(180deg, rgba(13,17,23,0.6) 0%, rgba(13,17,23,0.35) 50%, rgba(13,17,23,0.8) 100%);
         }
         .content {
           position: relative;
@@ -134,15 +132,14 @@
               <span class="tag">NESTJS</span>
               <span class="tag">WEBSOCKET</span>
               <span class="tag">MONGODB</span>
-              <span class="tag">LINUX VPS</span>
             </div>
             
             <div class="action-buttons">
               <a href="https://deprem.bilgisistemi.net.tr/" target="_blank" class="btn">
-                🌐 Websiteye Git &rarr;
+                🌐 Websiteye Git →
               </a>
               <a href="https://dprm.click/" target="_blank" class="btn">
-                🔗 Kısa Bağlantı (dprm.click) &rarr;
+                🔗 Kısa Bağlantı (dprm.click) →
               </a>
             </div>
           </div>
