@@ -1,65 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hi%20there,%20I'm%20Cabbar&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
 
-<div align="center">
-  <h3>💻 Back-End Developer | Software Architect</h3>
-  <p><em>Building resilient server-side architectures, real-time data pipelines, and scalable APIs.</em></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Coding%20something%20new-success?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/Location-Istanbul,%20Turkey-blue?style=for-the-badge&logo=googlemaps" />
-  </p>
-</div>
+# 👋 Hello, I'm YOUR_USERNAME
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+Enthusiast;API+Integration;Automation+Projects;Always+Building+Something+New" alt="Typing SVG"/>
 
-### 🚀 Hakkımda / About Me
+<p>
+  Building scalable backend systems, APIs and automation tools.
+</p>
 
-* 🌱 Backend sistemler, veritabanı optimizasyonu ve servis mimarileri üzerine çalışıyorum.
-* ⚡ Gerçek zamanlı veri akışları (WebSockets) ve otomasyon araçları geliştirme odaklıyım.
-* 🛠️ Kod kalitesi, performans ve sürdürülebilirlik odaklı yazılım geliştirmeyi benimserim.
-
----
-
-### 🛠️ Teknolojiler & Yetkinlikler / Tech Stack
-
-<div align="center">
-
-| Kategori | Teknolojiler / Araçlar |
-| :--- | :--- |
-| **Languages** | `JavaScript`, `TypeScript`, `SQL` |
-| **Backend & Frameworks** | `Node.js`, `NestJS`, `Express` |
-| **Databases & Cache** | `PostgreSQL`, `MongoDB`, `Redis` |
-| **DevOps & Tools** | `Docker`, `Linux`, `Git`, `Cloudflare`, `Postman` |
-| **Scripting & Automation** | `Puppeteer`, `WebSockets`, `Custom CLI Tools` |
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri / GitHub Stats
+## About Me
+
+I'm a backend-focused developer who enjoys creating systems that automate tasks, connect services together and solve practical problems.
+
+- Backend Development
+- API Integrations
+- Automation Systems
+- WebSocket Applications
+- Database Design
+- Performance-Oriented Solutions
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=express,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm"/>
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 📫 İletişim / Connect with Me
+## Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/KULLANICI_ADINIZ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- İstersen LinkedIn veya diğer sosyal medya linklerini buraya ekleyebilirsin -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
+---
+
+## Featured Skills
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Development
+
+- REST APIs
+- Express.js
+- WebSocket Systems
+- Authentication
+- Session Management
+- Middleware Architecture
+
+</td>
+<td width="50%">
+
+### Development
+
+- Git Workflow
+- Modular Architecture
+- Error Handling
+- API Consumption
+- Database Operations
+- Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
+
+- Improving backend architectures
+- Building automation tools
+- Developing real-time systems
+- Exploring scalable Node.js solutions
+
+---
+
+## GitHub Trophies
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=20" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Build. Improve. Repeat."*
+
 </div>
