@@ -33,17 +33,10 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 <div style="display: flex; gap: 16px; justify-content: flex-start; flex-wrap: wrap;">
 
-  <!-- 1. Proje Kartı (Yalnızken bile satırın yarısını kaplar) -->
-  <div style="width: 48%; min-width: 320px;">
-    <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" width="100%" />
-  </div>
-
-  <!-- 2. Proje Eklendiğinde Otomatik Olarak Saatine Yerleşecektir -->
-  <!--
-  <div style="width: 48%; min-width: 320px;">
-    <img src="./assets/ikinci-proje-card.svg" alt="İkinci Proje" width="100%" />
-  </div>
-  -->
+  <!-- Kartın tamamını tıklanabilir yapan sarmalayıcı -->
+  <a href="https://deprem.bilgisistemi.net.tr/" target="_blank" style="width: 48%; min-width: 320px; display: block; text-decoration: none;">
+    <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" width="100%" style="border-radius: 14px;" />
+  </a>
 
 </div>
 
