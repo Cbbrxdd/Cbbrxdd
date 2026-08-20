@@ -20,7 +20,7 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 İlgilendiğim başlıca alanlar:
 
-- ⚡ **Node.js & NestJS** ile Backend Geliştirme
+- ⚡ **Node.js** ile Backend Geliştirme
 - 🔌 **REST API** Tasarımı ve Entegrasyonları
 - 🌐 **WebSocket** Tabanlı Gerçek Zamanlı Sistemler
 - 🗄️ **MongoDB & PostgreSQL & MySQL** ile Veri Yönetimi
