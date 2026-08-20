@@ -33,7 +33,7 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cbbrxdd/Cbbrxdd/main/assets/deprem-card.svg" width="100%" alt="Deprem Bilgi Sistemi" />
+<img src="https://raw.githubusercontent.com/Cbbrxdd/Cbbrxdd/refs/heads/main/.github/assets/images/dbs-project-card.svg" width="100%" alt="Deprem Bilgi Sistemi" />
 
 </div>
 
