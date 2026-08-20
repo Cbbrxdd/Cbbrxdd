@@ -31,19 +31,19 @@ Kod yazarken yalnızca çalışan uygulamalar değil; sürdürülebilir, modüle
 
 ## 🌍 Yayında Olan Projelerim
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start;">
 
-<tr>
-    <td width="33%">
-      <img src="assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" />
-    </td>
-    <td width="33%">
-      <!-- İleride 2. proje buraya gelecek -->
-    </td>
-    <td width="33%">
-      <!-- İleride 3. proje buraya gelecek -->
-    </td>
-  </tr>
+  <!-- 1. Proje Kartı -->
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <img src="./assets/dbs-project-card.svg" alt="Deprem Bilgi Sistemi" width="100%" style="border-radius: 14px;" />
+  </div>
+
+  <!-- 2. Proje (İleride eklendiğinde buraya kopyalayabilirsin) -->
+  <!-- 
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <img src="./assets/ikinci-proje-card.svg" alt="İkinci Proje" width="100%" style="border-radius: 14px;" />
+  </div>
+  -->
 
 </div>
 
