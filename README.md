@@ -39,7 +39,7 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 <!-- Proje Ekran Görüntüsü -->
 <p align="center">
-  <img src="DEPREM_GORSEL_LINKI_BURAYA" alt="Deprem Bilgi Sistemi Arayüzü" width="90%" style="border-radius: 8px;"/>
+  <img src="https://github.com/Cbbrxdd/Cbbrxdd/blob/c331e43edbefd075ee49705db93d94b45cd4be0c/.github/assets/images/deprem.bilgisistemi.net.tr_.png" alt="Deprem Bilgi Sistemi Arayüzü" width="90%" style="border-radius: 8px;"/>
 </p>
 
 🌐 **Website:** [deprem.bilgisistemi.net.tr](https://deprem.bilgisistemi.net.tr/) &nbsp;|&nbsp; 🔗 **Kısa Bağlantı:** [dprm.click](https://dprm.click/)
