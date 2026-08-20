@@ -93,6 +93,17 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 
 ---
 
+## 📅 Katkı Grafiğim
+
+<div align="center">
+
+<!-- Yılanın görüntüleneceği yer. Doğrudan kendi deponuzdaki dosyayı işaret edin. -->
+<img src="https://raw.githubusercontent.com/Cbbrxdd/Cbbrxdd/main/dist/github-contribution-grid-snake.gif" alt="Katkı Yılanı" />
+
+</div>
+
+---
+
 ## 📬 Bana Ulaşın
 
 <div align="center">
