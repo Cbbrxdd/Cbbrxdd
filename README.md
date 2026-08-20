@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm YOUR_USERNAME
+# 👋 Hello, I'm Emir
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+Enthusiast;API+Integration;Automation+Projects;Always+Building+Something+New" alt="Typing SVG"/>
 
@@ -8,7 +8,7 @@
   Building scalable backend systems, APIs and automation tools.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=cbbrxdd&style=for-the-badge&color=7F5AF0" alt="Profile Views"/>
 
 </div>
 
@@ -53,15 +53,15 @@ I'm a backend-focused developer who enjoys creating systems that automate tasks,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cbbrxdd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cbbrxdd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbbrxdd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -71,7 +71,7 @@ I'm a backend-focused developer who enjoys creating systems that automate tasks,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbbrxdd&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -123,7 +123,7 @@ I'm a backend-focused developer who enjoys creating systems that automate tasks,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cbbrxdd&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -133,7 +133,7 @@ I'm a backend-focused developer who enjoys creating systems that automate tasks,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cbbrxdd)
 
 </div>
 
