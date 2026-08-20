@@ -1,0 +1,132 @@
+<svg fill="none" viewBox_box="0 0 800 450" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .card {
+          width: 100%;
+          height: 450px;
+          background: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 16px;
+          overflow: hidden;
+          position: relative;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        .bg-image {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          opacity: 0.25;
+        }
+        .gradient-overlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: linear-gradient(180deg, rgba(13,17,23,0.7) 0%, rgba(13,17,23,0.95) 80%, #0d1117 100%);
+        }
+        .content {
+          position: relative;
+          z-index: 2;
+          padding: 35px;
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          box-sizing: border-box;
+          justify-content: space-between;
+        }
+        .badge {
+          display: inline-flex;
+          align-items: center;
+          background: linear-gradient(135deg, #8B5CF6 0%, #6D28D9 100%);
+          color: #ffffff;
+          padding: 6px 14px;
+          border-radius: 20px;
+          font-size: 12px;
+          font-weight: 700;
+          letter-spacing: 0.5px;
+          width: fit-content;
+          box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+        }
+        .main-info h3 {
+          color: #ffffff;
+          font-size: 28px;
+          margin: 15px 0 10px 0;
+          font-weight: 700;
+        }
+        .main-info p {
+          color: #94a3b8;
+          font-size: 14px;
+          line-height: 1.6;
+          margin: 0;
+          max-width: 650px;
+        }
+        .tags {
+          display: flex;
+          gap: 10px;
+          flex-wrap: wrap;
+          margin-top: 20px;
+        }
+        .tag {
+          background: rgba(255, 255, 255, 0.08);
+          border: 1px solid rgba(255, 255, 255, 0.12);
+          color: #e2e8f0;
+          padding: 6px 14px;
+          border-radius: 8px;
+          font-size: 12px;
+          font-weight: 600;
+          backdrop-filter: blur(5px);
+        }
+        .links {
+          margin-top: 15px;
+          display: flex;
+          gap: 15px;
+          font-size: 13px;
+          font-weight: 600;
+        }
+        .links a {
+          color: #a78bfa;
+          text-decoration: none;
+        }
+        .links a:hover {
+          text-decoration: underline;
+        }
+      </style>
+      
+      <div class="card">
+        <!-- Arka plana projenin ekran görüntüsü gelir -->
+        <img src="https://github.com/Cbbrxdd/Cbbrxdd/blob/c331e43edbefd075ee49705db93d94b45cd4be0c/.github/assets/images/deprem.bilgisistemi.net.tr_.png" class="bg-image" alt="Project Preview" />
+        <div class="gradient-overlay"></div>
+        
+        <div class="content">
+          <div>
+            <div class="badge">🌐 GERÇEK ZAMANLI SİSTEM &amp; ANALİZ</div>
+            <div class="main-info">
+              <h3>Deprem Bilgi Sistemi</h3>
+              <p>Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, analiz eden ve çeşitli platformlara otomatik olarak aktaran yüksek performanslı bir mimari.</p>
+            </div>
+          </div>
+          
+          <div>
+            <div class="tags">
+              <span class="tag">NODE.JS</span>
+              <span class="tag">NESTJS</span>
+              <span class="tag">WEBSOCKET</span>
+              <span class="tag">MONGODB</span>
+              <span class="tag">LINUX VPS</span>
+            </div>
+            <div class="links">
+              <a href="https://deprem.bilgisistemi.net.tr/" target="_blank">🌐 Websiteye Git &rarr;</a>
+              <a href="https://dprm.click/" target="_blank">🔗 Kısa Bağlantı (dprm.click) &rarr;</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
