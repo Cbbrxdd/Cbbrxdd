@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Selam, ben Cabbar
+# 👋 Selam, ben Emir
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Backend+Geli%C5%9Ftiricisi;Node.js+ve+NestJS+Mimarileri;Ger%C3%A7ek+Zamanl%C4%B1+Sistemler;API+ve+Otomasyon+Projeleri"/>
 
@@ -111,13 +111,5 @@ Türkiye ve yakın çevresindeki depremleri gerçek zamanlı olarak işleyen, an
 [![Spotify](https://img.shields.io/badge/Spotify-Profil-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/im86psmy8a433u1k4zbsz1lnq)
 [![Business Mail](https://img.shields.io/badge/Business-cbbr.digital@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbbr.digital@gmail.com)
 [![Mail](https://img.shields.io/badge/Mail-ebagci007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebagci007@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 *"İyi yazılmış kod yalnızca çalışmaz; uzun yıllar boyunca anlaşılabilir ve sürdürülebilir kalır."*
 
 </div>
