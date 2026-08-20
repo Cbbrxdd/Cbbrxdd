@@ -122,7 +122,7 @@
       <div class="card">
         <!-- Aynı dizindeki görsel doğrudan dosya adıyla çağrılıyor -->
         <div class="bg-container">
-          <img src="dbs-preview.png" class="bg-image" alt="Project Preview" />
+          <img src="./dbs-preview.png" class="bg-image" alt="Project Preview" />
           <div class="vignette-overlay"></div>
         </div>
         
