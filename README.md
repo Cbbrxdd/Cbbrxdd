@@ -2,7 +2,7 @@
 
 # 👋 Selam, ben Emir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Backend+Geliştiricisi;Node.js+ile+Gerçek+Zamanlı+Sistemler;API+Entegrasyonları;Otomasyon+Projeleri;Yeni+Fikirler+Üretmeyi+Severim"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Backend%20Geli%C5%9Ftiricisi;Node.js%20ile%20Ger%C3%A7ek%20Zamanl%C4%B1%20Sistemler;API%20Entegrasyonlar%C4%B1;Otomasyon%20Projeleri;Yeni%20Fikirler%20%C3%9Cretmeyi%20Severim"/>
 
 Backend geliştirme, API entegrasyonları ve gerçek zamanlı sistemler üzerine çalışıyorum.
 
