@@ -1,146 +1,90 @@
 <div align="center">
-
-# 👋 Hello, I'm Emir
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+Enthusiast;API+Integration;Automation+Projects;Always+Building+Something+New" alt="Typing SVG"/>
-
-<p>
-  Building scalable backend systems, APIs and automation tools.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=cbbrxdd&style=for-the-badge&color=7F5AF0" alt="Profile Views"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hi%20there,%20I'm%20Cabbar&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%26+WebSocket+Enthusiast;API+%26+Automation+Systems;Always+Building+Something+New" alt="Typing SVG"/>
+</div>
 
-## About Me
-
-I'm a backend-focused developer who enjoys creating systems that automate tasks, connect services together and solve practical problems.
-
-- Backend Development
-- API Integrations
-- Automation Systems
-- WebSocket Applications
-- Database Design
-- Performance-Oriented Solutions
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=express,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20something%20new-success?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Location-Istanbul,%20Turkey-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://komarev.com/ghpvc/?username=Cbbrxdd&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 </p>
 
 ---
 
-## GitHub Analytics
+### 🚀 Hakkımda / About Me
+
+* 💻 Backend odaklı bir geliştiriciyim; ölçeklenebilir sistemler ve sağlam API mimarileri kurmayı seviyorum.
+* ⚡ Gerçek zamanlı veri akışları (WebSockets) ve otomasyon araçları geliştirmeye özellikle ilgi duyuyorum.
+* 🌱 Servis mimarileri, veritabanı optimizasyonu ve performans üzerine sürekli kendimi geliştiriyorum.
+* 🛠️ Kod kalitesi, sürdürülebilirlik ve pratik problemlere çözüm üretmeyi önceliklendiriyorum.
+* 📦 Zaman zaman kendi ürünlerimi geliştirip yayınlıyorum.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css"/>
+</p>
+
+**Backend & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+</p>
+
+**Databases & Cache**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
+
+**Tools & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,npm,postman"/>
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri / GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cbbrxdd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cbbrxdd&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Cbbrxdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbbrxdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbbrxdd&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cbbrxdd&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
 
----
-
-## Contribution Graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbbrxdd&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## Featured Skills
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend Development
-
-- REST APIs
-- Express.js
-- WebSocket Systems
-- Authentication
-- Session Management
-- Middleware Architecture
-
-</td>
-<td width="50%">
-
-### Development
-
-- Git Workflow
-- Modular Architecture
-- Error Handling
-- API Consumption
-- Database Operations
-- Performance Optimization
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Focus
-
-- Improving backend architectures
-- Building automation tools
-- Developing real-time systems
-- Exploring scalable Node.js solutions
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cbbrxdd&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cbbrxdd&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 ---
 
-## Connect
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cbbrxdd)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Cbbrxdd&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
 
+### 📫 İletişim / Connect with Me
+
 <div align="center">
+  <a href="https://github.com/Cbbrxdd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-> *"Build. Improve. Repeat."*
+<div align="center">
+  <em>"Build. Improve. Repeat."</em>
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=20" width="100%" />
 </div>
